@@ -16,7 +16,7 @@ A World of Warcraft Recruitment - Legion Recruitment plugin. Simple and easy to 
 
 == Screenshots ==
 1. How it looks by default
-2. How it looks with some custom CSS and another font on a website
+2. How it looks with some custom CSS and different font on a website
 
 == Changelog ==
 - 1.0.0
